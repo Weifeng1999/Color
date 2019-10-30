@@ -17,4 +17,8 @@
         <item name="android:fontFamily">@font/roboto</item>
     </style>
 
+    <style name="picture">
+        <item name="android:background">@android:color/white</item>
+    </style>
+
 </resources>
